@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "source": "https://excalidraw.com",
   "elements": [
     {
       "type": "rectangle",
@@ -365,7 +365,7 @@
       "containerId": "qU6o957XkOUXLgffxm1F5",
       "originalText": "Get list of programs",
       "lineHeight": 1.25,
-      "baseline": 47
+      "baseline": 46
     },
     {
       "type": "rectangle",
@@ -437,7 +437,7 @@
       "containerId": "HzXx5tTkJ8NbDBYax9lf3",
       "originalText": "Create program",
       "lineHeight": 1.25,
-      "baseline": 47
+      "baseline": 46
     },
     {
       "type": "rectangle",
@@ -509,7 +509,7 @@
       "containerId": "ZzxPk4FqdAaagNOnjn1tj",
       "originalText": "Delete program",
       "lineHeight": 1.25,
-      "baseline": 47
+      "baseline": 46
     },
     {
       "type": "rectangle",
@@ -581,7 +581,7 @@
       "containerId": "lFOYLwt0VVZ0hux_ceElD",
       "originalText": "Get single program",
       "lineHeight": 1.25,
-      "baseline": 47
+      "baseline": 46
     },
     {
       "type": "ellipse",
@@ -657,7 +657,7 @@
       "containerId": "HFUTILaMfnzDrjY_6K0n_",
       "originalText": "Program store",
       "lineHeight": 1.25,
-      "baseline": 22
+      "baseline": 21
     },
     {
       "type": "image",
@@ -736,8 +736,8 @@
     },
     {
       "type": "text",
-      "version": 258,
-      "versionNonce": 858283533,
+      "version": 300,
+      "versionNonce": 1654842056,
       "isDeleted": false,
       "id": "MpH3sJKGTNd5xyTJdyYiX",
       "fillStyle": "solid",
@@ -746,8 +746,8 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": 6093.1740388963735,
-      "y": 724.867301233287,
+      "x": 6342.4876329737945,
+      "y": 461.85973353424333,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 1475.2017822265625,
@@ -761,7 +761,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1686643368467,
+      "updated": 1686660217784,
       "link": null,
       "locked": false,
       "fontSize": 203.42250530785574,
@@ -976,12 +976,12 @@
       "containerId": null,
       "originalText": "Filemanager-dialog.component.ts",
       "lineHeight": 1.25,
-      "baseline": 110
+      "baseline": 109
     },
     {
       "type": "arrow",
-      "version": 870,
-      "versionNonce": 1132648012,
+      "version": 954,
+      "versionNonce": 281758152,
       "isDeleted": false,
       "id": "qy9X-tPM2kNIHJmgzau1L",
       "fillStyle": "solid",
@@ -990,19 +990,19 @@
       "roughness": 0,
       "opacity": 100,
       "angle": 0,
-      "x": 3339.7624147874976,
+      "x": 3339.6390402049697,
       "y": 3288.481692147588,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 2736.9769262217233,
-      "height": 2557.633551987755,
+      "width": 2986.413894881672,
+      "height": 2820.561471346634,
       "seed": 645351310,
       "groupIds": [],
       "roundness": {
         "type": 2
       },
       "boundElements": [],
-      "updated": 1686310134211,
+      "updated": 1686660217784,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -1024,8 +1024,8 @@
           0
         ],
         [
-          2736.9769262217233,
-          -2557.633551987755
+          2986.413894881672,
+          -2820.561471346634
         ]
       ]
     },
@@ -1062,7 +1062,7 @@
       "containerId": null,
       "originalText": "Application-provider.ts",
       "lineHeight": 1.25,
-      "baseline": 120
+      "baseline": 119
     },
     {
       "type": "text",
@@ -1173,7 +1173,7 @@
       "containerId": null,
       "originalText": "applicationFacade.selectedApplication$",
       "lineHeight": 1.25,
-      "baseline": 135
+      "baseline": 134
     },
     {
       "type": "text",
@@ -1210,7 +1210,7 @@
       "containerId": null,
       "originalText": "applicationProvider.fetchProgramsByApplicationId(application.id)",
       "lineHeight": 1.25,
-      "baseline": 135
+      "baseline": 134
     },
     {
       "type": "rectangle",
@@ -1520,7 +1520,7 @@
       "containerId": "jifoQhCD-s8bi3LiufA10",
       "originalText": "Selectors",
       "lineHeight": 1.25,
-      "baseline": 24
+      "baseline": 23
     },
     {
       "type": "arrow",
@@ -1602,7 +1602,7 @@
       "containerId": "kmkoImGm0MoIF1c2qB_4T",
       "originalText": "Effects",
       "lineHeight": 1.25,
-      "baseline": 24
+      "baseline": 23
     },
     {
       "type": "arrow",
@@ -1725,7 +1725,7 @@
       "containerId": "mnlqhwD1kA1A4Xv15tyBj",
       "originalText": "Reducers",
       "lineHeight": 1.25,
-      "baseline": 24
+      "baseline": 23
     },
     {
       "type": "rectangle",
@@ -1801,7 +1801,7 @@
       "containerId": "w54dFb2qzbw5sxkZBIJ1u",
       "originalText": "Actions",
       "lineHeight": 1.25,
-      "baseline": 24
+      "baseline": 23
     },
     {
       "type": "arrow",
@@ -2155,7 +2155,7 @@
       "containerId": "pooe3PyqahGs0jlZevfEB",
       "originalText": "State",
       "lineHeight": 1.25,
-      "baseline": 24
+      "baseline": 23
     },
     {
       "type": "rectangle",
@@ -2409,7 +2409,7 @@
       "containerId": "Sgf2zFQKOe3DZQvxoqhaj",
       "originalText": "Providers?",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "rectangle",
@@ -2477,7 +2477,7 @@
       "containerId": "JagnNPUkljVlOoaXjCcu4",
       "originalText": "Program Library (system manager item)",
       "lineHeight": 1.25,
-      "baseline": 77
+      "baseline": 76
     },
     {
       "type": "rectangle",
@@ -2588,7 +2588,7 @@
       "containerId": "p3cxrpuTprQU2RffSO2zs",
       "originalText": "System manager",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "rectangle",
@@ -2644,7 +2644,7 @@
       "seed": 654984397,
       "groupIds": [],
       "roundness": null,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1686643389327,
       "link": null,
       "locked": false,
@@ -2656,7 +2656,7 @@
       "containerId": "tAbIl29PNUdU9zzWRAWQ-",
       "originalText": "Program Library",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "rectangle",
@@ -2728,7 +2728,7 @@
       "containerId": "xy2igS8W_NbSgObLaklsA",
       "originalText": "URCap Library",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "text",
@@ -2831,7 +2831,7 @@
       "containerId": "p1zJKTRXmS34vy8Z_b4lU",
       "originalText": "System manager",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "text",
@@ -2970,7 +2970,7 @@
       "containerId": null,
       "originalText": "Skal program-manager & urcap-manager leve i \nlibs/-web-frontend-app og system-manager være en \ndel af apps/?",
       "lineHeight": 1.25,
-      "baseline": 122
+      "baseline": 121
     },
     {
       "type": "image",
@@ -3332,7 +3332,7 @@
       "containerId": "LIPyQ-e1XkGrA32CHDSy8",
       "originalText": "Services?",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "line",
